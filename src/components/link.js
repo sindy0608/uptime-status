@@ -2,7 +2,7 @@ import React from 'react';
 
 const Link = (props) => {
   return (
-    <img src="/assset/link.svg"/>
+    <span class="fas fa-cloud"></span>
   );
 }
 
