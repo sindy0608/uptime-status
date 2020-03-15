@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div id="header">
       <div className="container">
-        <a className="logo" href="./">IPLC&IEPL Status Monitor</a>
+        <a className="logo" href="./">Network Status Monitor</a>
       </div>
     </div>
   );
